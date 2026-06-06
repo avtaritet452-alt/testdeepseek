@@ -1,0 +1,124 @@
+2026-06-02 23:22:29 I engine: running on windows-win64-amd64
+2026-06-02 23:22:29 I engine: arch is little endian
+2026-06-02 23:22:29 I engine: operation system version: Windows 10.0.19041.5198
+2026-06-02 23:22:29 I storage: couldn't open storage.cfg
+2026-06-02 23:22:29 I storage: using standard paths
+2026-06-02 23:22:29 I storage: added path '$USERDIR' ('C:\Users\User\AppData\Roaming/DDNet')
+2026-06-02 23:22:29 I storage: added path '$DATADIR' ('C:\Temp\LSDLauncher\MarioTEE\MarioTEE/data')
+2026-06-02 23:22:29 I storage: added path '$CURRENTDIR' ('C:\Users\User\Desktop\LSDLauncher')
+2026-06-02 23:22:29 I http: libcurl version 7.84.0 (compiled = 7.84.0)
+2026-06-02 23:22:29 I host_lookup: host='localhost' port=0 1
+2026-06-02 23:22:29 I host_lookup: host='localhost' port=0 2
+2026-06-02 23:22:29 I console: executing 'autoexec_server.cfg'
+2026-06-02 23:22:29 I server: added maps to votes
+2026-06-02 23:22:29 I console: moderator access for 'left' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'left' is now enabled
+2026-06-02 23:22:29 I console: user access for 'left' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'right' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'right' is now enabled
+2026-06-02 23:22:29 I console: user access for 'right' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'up' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'up' is now enabled
+2026-06-02 23:22:29 I console: user access for 'up' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'down' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'down' is now enabled
+2026-06-02 23:22:29 I console: user access for 'down' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'super' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'super' is now enabled
+2026-06-02 23:22:29 I console: user access for 'super' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'unsuper' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'unsuper' is now enabled
+2026-06-02 23:22:29 I console: user access for 'unsuper' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'tele' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'tele' is now enabled
+2026-06-02 23:22:29 I console: user access for 'tele' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'totele' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'totele' is now enabled
+2026-06-02 23:22:29 I console: user access for 'totele' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'totelecp' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'totelecp' is now enabled
+2026-06-02 23:22:29 I console: user access for 'totelecp' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'logout' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'logout' is now enabled
+2026-06-02 23:22:29 I console: user access for 'logout' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'ninja' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'ninja' is now enabled
+2026-06-02 23:22:29 I console: user access for 'ninja' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'grenade' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'grenade' is now enabled
+2026-06-02 23:22:29 I console: user access for 'grenade' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'shotgun' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'shotgun' is now enabled
+2026-06-02 23:22:29 I console: user access for 'shotgun' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'laser' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'laser' is now enabled
+2026-06-02 23:22:29 I console: user access for 'laser' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'weapons' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'weapons' is now enabled
+2026-06-02 23:22:29 I console: user access for 'weapons' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'unweapons' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'unweapons' is now enabled
+2026-06-02 23:22:29 I console: user access for 'unweapons' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'unlaser' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'unlaser' is now enabled
+2026-06-02 23:22:29 I console: user access for 'unlaser' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'unshotgun' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'unshotgun' is now enabled
+2026-06-02 23:22:29 I console: user access for 'unshotgun' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'ungrenade' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'ungrenade' is now enabled
+2026-06-02 23:22:29 I console: user access for 'ungrenade' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'unsolo' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'unsolo' is now enabled
+2026-06-02 23:22:29 I console: user access for 'unsolo' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'undeep' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'undeep' is now enabled
+2026-06-02 23:22:29 I console: user access for 'undeep' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'status' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'status' is now enabled
+2026-06-02 23:22:29 I console: user access for 'status' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'ban' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'ban' is now disabled
+2026-06-02 23:22:29 I console: user access for 'ban' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'unban' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'unban' is now disabled
+2026-06-02 23:22:29 I console: user access for 'unban' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'ban_range' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'ban_range' is now disabled
+2026-06-02 23:22:29 I console: user access for 'ban_range' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'unban_range' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'unban_range' is now disabled
+2026-06-02 23:22:29 I console: user access for 'unban_range' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'unban_all' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'unban_all' is now disabled
+2026-06-02 23:22:29 I console: user access for 'unban_all' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'bans' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'bans' is now disabled
+2026-06-02 23:22:29 I console: user access for 'bans' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'bans_save' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'bans_save' is now disabled
+2026-06-02 23:22:29 I console: user access for 'bans_save' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'kick' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'kick' is now disabled
+2026-06-02 23:22:29 I console: user access for 'kick' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'force_vote' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'force_vote' is now disabled
+2026-06-02 23:22:29 I console: user access for 'force_vote' is now disabled
+2026-06-02 23:22:29 I console: moderator access for 'moderate' is now enabled
+2026-06-02 23:22:29 I console: helper access for 'moderate' is now disabled
+2026-06-02 23:22:29 I console: user access for 'moderate' is now disabled
+2026-06-02 23:22:29 I console: failed to open 'myServerconfig.cfg'
+2026-06-02 23:22:29 I chatresp: No such command: +name.
+2026-06-02 23:22:29 I chatresp: No such command: Player.
+2026-06-02 23:22:29 I server: starting...
+2026-06-02 23:22:29 I socket: Setting TOS on ipv6 failed: 2
+2026-06-02 23:22:29 I server: using port 8303
+2026-06-02 23:22:29 I server: server name is 'My DDNet server'
+2026-06-02 23:22:29 I git-revision: 12250be6a78b2c84
+2026-06-02 23:22:29 I server: version 16.4 on win64 amd64
+2026-06-02 23:22:29 I server: git revision hash: 12250be6a78b2c84
+2026-06-02 23:22:29 I server: +-------------------------+
+2026-06-02 23:22:29 I server: | rcon password: 'PeHmm2' |
+2026-06-02 23:22:29 I server: +-------------------------+
+2026-06-02 23:22:29 I libsm64: Super Mario 64 US ROM not found! Please provide a ROM with the filename "sm64.us.z64"
+2026-06-02 23:22:29 I sql: load best time done on read database 0
